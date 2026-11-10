@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Programming",
+    "icon": "code",
+    "items": ["Python", "Java", "C", "C++", "JavaScript"],
+    "description": "Core languages used across application development, automation and coursework.",
+    "projects": ["green-route", "aqi-prediction", "emergency-messages", "community-resource"]
+  },
+  {
+    "name": "AI & Generative AI",
+    "icon": "spark",
+    "items": ["Gemini", "Google AI Studio", "Agent Development Kit", "Prompt Engineering", "Hugging Face"],
+    "description": "Building LLM-powered experiences and agent workflows with practical guardrails.",
+    "projects": ["cymbalmart", "smart-waste"]
+  },
+  {
+    "name": "Machine Learning & Data",
+    "icon": "chart",
+    "items": ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Plotly"],
+    "description": "Preprocessing, exploratory analysis, model training, evaluation and visualisation.",
+    "projects": ["green-route", "aqi-prediction", "emergency-messages"]
+  },
+  {
+    "name": "Web & APIs",
+    "icon": "globe",
+    "items": ["Django", "Flask", "FastAPI", "HTML", "CSS", "React basics"],
+    "description": "Backend APIs and interfaces that make models and data usable by people.",
+    "projects": ["community-resource", "aqi-prediction", "smart-waste", "visual-search"]
+  },
+  {
+    "name": "Databases & Tools",
+    "icon": "database",
+    "items": ["MySQL", "SQLite", "MongoDB", "GitHub", "VS Code", "Streamlit", "Docker"],
+    "description": "Tools for storing data, shipping projects and collaborating on code.",
+    "projects": ["community-resource", "smart-waste", "aqi-prediction"]
+  }
+]

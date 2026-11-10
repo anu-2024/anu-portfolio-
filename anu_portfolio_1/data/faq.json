@@ -1,0 +1,122 @@
+[
+  {
+    "id": "projects",
+    "question": "What projects has Anu built?",
+    "keywords": ["project", "projects", "portfolio", "built", "build"],
+    "answer": "There are seven featured projects: CymbalMart Shopping Agent, Green Route Travel Recommendation System, Visual Search + OCR Comparison, Smart Waste Management OpenEnv, Emergency Message Prioritization System, Community Resource Sharing System and AQI Prediction System. Open any project card to read the case study."
+  },
+  {
+    "id": "generative-ai",
+    "question": "Which projects use Generative AI?",
+    "keywords": ["generative", "genai", "gen ai", "llm", "gemini", "agent"],
+    "answer": "CymbalMart Shopping Agent uses Gemini through Google AI Studio for reasoning and recommendations. Smart Waste Management OpenEnv is built around an AI agent workflow. I have also worked with Google's Agent Development Kit."
+  },
+  {
+    "id": "python",
+    "question": "Which projects use Python?",
+    "keywords": ["python", "programming", "backend"],
+    "answer": "Python appears in Green Route, AQI Prediction, Smart Waste Management OpenEnv and Emergency Message Prioritization. I also use Python for data processing, Streamlit interfaces and API work."
+  },
+  {
+    "id": "machine-learning",
+    "question": "What machine-learning work has Anu done?",
+    "keywords": ["machine learning", "ml", "model", "scikit", "random forest", "data science"],
+    "answer": "My machine-learning work includes Green Route, AQI Prediction and Emergency Message Prioritization. It covers preprocessing, exploratory analysis, model training, evaluation and visualisation with Pandas, NumPy, Scikit-learn, Matplotlib and Plotly."
+  },
+  {
+    "id": "experience",
+    "question": "What experience does Anu have?",
+    "keywords": ["experience", "intern", "internship", "work", "trainer", "job"],
+    "answer": "I completed the 1M1B Green Internship, worked as an IT Trainer at CCSI Computer Education, and completed a Data Science internship at Academor. I was also Secretary of the Rotaract Club."
+  },
+  {
+    "id": "education",
+    "question": "What is Anu studying?",
+    "keywords": ["education", "study", "degree", "college", "university", "mca", "bca"],
+    "answer": "I am pursuing an MCA at Alliance University (2025-2027), after completing a BCA at St. Francis de Sales College (2021-2024)."
+  },
+  {
+    "id": "skills",
+    "question": "What is Anu's technical stack?",
+    "keywords": ["skills", "skill", "technology", "stack", "tools", "technologies"],
+    "answer": "My toolkit includes Python, Java, C, C++, JavaScript, Gemini, Google AI Studio, Agent Development Kit, Pandas, NumPy, Scikit-learn, Django, Flask, FastAPI, Streamlit, SQL, MongoDB and Docker."
+  },
+  {
+    "id": "contact",
+    "question": "How can I contact Anu?",
+    "keywords": ["contact", "email", "linkedin", "phone", "reach", "hire"],
+    "answer": "You can email anuanjenappa@gmail.com, call +91 7259109591, connect on LinkedIn at linkedin.com/in/anu-a-/, or explore my work on GitHub at github.com/anu-2024. The contact section also includes my coding profiles."
+  },
+  {
+    "id": "resume",
+    "question": "Can I download the resume?",
+    "keywords": ["resume", "cv", "download"],
+    "answer": "Yes. Use the Resume button in the navigation or the Download resume button in the Recruiter Quick View section."
+  },
+  {
+    "id": "availability",
+    "question": "What roles is Anu looking for?",
+    "keywords": ["available", "availability", "roles", "hiring", "opportunity", "internship"],
+    "answer": "I am open to internships and entry-level roles such as Generative AI / AI Application Intern, Python Developer, Machine Learning Intern, and Data / Software Engineering Intern."
+  },
+  {
+    "id": "github",
+    "question": "Where can I see Anu's code?",
+    "keywords": ["github", "code", "repository", "repositories", "source"],
+    "answer": "My public repositories are available at github.com/anu-2024. The GitHub Activity section also discovers public repositories automatically and shows languages, stars, forks and update dates."
+  },
+  {
+    "id": "location",
+    "question": "Where is Anu based?",
+    "keywords": ["location", "based", "city", "bengaluru", "bangalore", "remote"],
+    "answer": "I am based in Bengaluru, India, and I am open to remote opportunities."
+  },
+  {
+    "id": "green-route",
+    "question": "Tell me about Green Route.",
+    "keywords": ["green route", "travel", "route", "sustainability"],
+    "answer": "Green Route is a travel recommendation system that compares machine-learning approaches and uses Dijkstra-based route optimisation. It is presented through an interactive Streamlit interface. A live demo is linked from the project card."
+  },
+  {
+    "id": "cymbalmart",
+    "question": "Tell me about CymbalMart.",
+    "keywords": ["cymbalmart", "shopping", "shopping agent"],
+    "answer": "CymbalMart Shopping Agent converts natural-language event needs into personalised, budget-conscious product suggestions and curated carts. It uses Gemini through Google AI Studio, with a React and TypeScript interface."
+  },
+  {
+    "id": "smart-waste",
+    "question": "Tell me about Smart Waste Management OpenEnv.",
+    "keywords": ["smart waste", "waste", "openenv", "municipal"],
+    "answer": "Smart Waste Management OpenEnv is a simulated municipal complaint-resolution environment. An AI agent classifies waste complaints, assigns departments, dispatches trucks and completes cleanup through a staged API workflow. The API documentation is linked from the project card."
+  },
+  {
+    "id": "emergency",
+    "question": "Tell me about the Emergency Message Prioritization System.",
+    "keywords": ["emergency", "message prioritization", "prioritization", "dq n"],
+    "answer": "The Emergency Message Prioritization System is a human-in-the-loop decision-support prototype. It combines classical NLP with a reinforcement-learning queue simulator and a transparent rule-based baseline. It never dispatches emergency services autonomously."
+  },
+  {
+    "id": "community",
+    "question": "Tell me about the Community Resource Sharing System.",
+    "keywords": ["community", "resource sharing", "donate", "donation"],
+    "answer": "Community Resource Sharing System connects people who want to donate or request unused household items. It uses a Spring Boot backend, a Streamlit interface and SQLite storage. A live demo is linked from the project card."
+  },
+  {
+    "id": "aqi",
+    "question": "Tell me about the AQI Prediction System.",
+    "keywords": ["aqi", "air quality", "prediction", "pollution"],
+    "answer": "AQI Prediction System is a Flask application that predicts air quality index values from pollutant measurements. The project covers data preprocessing, exploratory analysis, model training and evaluation."
+  },
+  {
+    "id": "visual-search",
+    "question": "Tell me about Visual Search + OCR Comparison.",
+    "keywords": ["visual search", "ocr", "tesseract", "trocr", "computer vision"],
+    "answer": "Visual Search + OCR Comparison is a browser-based application that compares Tesseract.js and TrOCR, with object detection, text extraction and OCR evaluation tools. It is built with Next.js, TypeScript and TensorFlow.js."
+  },
+  {
+    "id": "certifications",
+    "question": "What certifications does Anu have?",
+    "keywords": ["certification", "certifications", "certificate", "courses"],
+    "answer": "My certifications include Engineer AI Agents with Agent Development Kit (Google), Data Analysis with Python (IBM), Introduction to Databases (Meta), Introduction to Front-End Development (Meta), UI Design and Prototyping (Microsoft), Applied Statistics for Data Analytics (DeepLearning.AI), Advanced Data Structures and Algorithms (Packt), and Java Programming for Beginners (IBM)."
+  }
+]
